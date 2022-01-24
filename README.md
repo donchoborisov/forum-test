@@ -7,7 +7,7 @@
 ## Installation
 
 Step 1 - Clone the Repo <br>
-git clone https://github.com/donchoborisov/address-api.git
+git clone https://github.com/donchoborisov/forum-test.git
  
 Step 2 - Go into the folder <br>
 <b>cd laravel-forum</b>
